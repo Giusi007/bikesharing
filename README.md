@@ -7,7 +7,7 @@ The purpose of this analysis was to examine Citibike data from New York City in 
 Some of the results of the analysis are shown int he following 7 visualizations. The view the visualizations as a Tableau Story, please <a href="https://public.tableau.com/shared/QYYR2R9BH?:display_count=n&:origin=viz_share_link">click here</a>.
 
 August Peak Hours
-<br><img src="..//Resources/August_Peak_Hours.png"></img></br>
+<br><img src="../Resources/August_Peak_Hours.png"></img></br>
 The data that we used for this analysis comes from the month of August in 2019. The bar chart below shows the number of bikes being used at each hour. The most popular hours are 5PM and 6PM. This could mean that people are using the bikes to commute home from work.
 
 Gender Breakdown
