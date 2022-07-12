@@ -31,7 +31,7 @@ Trip Duration
 This line chart shows trip duration by hour (filter on the side) and minute. Looking at the chart shows that the vast majority of rides are under an hour, with most rides falling under 30 minutes. A trip of 5 minutes seems to be the most popular, represented by the peak in the line chart.
 
 Trip Duration by Gender
-<br><img src="Gender_Trip_Duration.png"></img></br>
+<br><img src="Trip_Duration_Gender.png"></img></br>
 This line chart shows the information in the previous chart broken down by gender. It appears that across all genders, bike trips under an hour are most common. A trip of 5 minutes duration is most common for males. Females have a slightly longer most common trip duration of 6 minutes. Users whose gender is unknown have, on average, longer trips.
 
 ## Summary
